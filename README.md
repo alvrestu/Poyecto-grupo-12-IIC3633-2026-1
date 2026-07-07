@@ -6,6 +6,8 @@ Este repositorio contiene el código, los experimentos y el documento final de i
 
 El proyecto utiliza el **MIND (Microsoft News Dataset)**, específicamente la versión **MIND Small**. Este dataset es un referente en la investigación de recomendación de noticias, proveyendo tanto logs de interacciones (impresiones y clics de usuarios) como contenido textual (títulos, resúmenes, categorías) necesario para el análisis semántico.
 
+Debbido a limitaciones de tamaño de dataset no es posible añadir el dataset directamente en este repositorio. Sin embargo, se puede acceder a este directamente desde https://msnews.github.io/#getting-start . O bien acceder directamente al drive usado por nosotros que contiene la misma data https://drive.google.com/drive/folders/1fyOWrFVm6P_uJ1ZpU0Gl3enkq150kPIT?usp=sharing.
+
 ## Contenido del Repositorio
 
 El flujo de trabajo y la experimentación se encuentran divididos en dos cuadernos de Jupyter principales:
