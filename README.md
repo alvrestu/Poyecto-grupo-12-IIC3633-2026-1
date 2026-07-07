@@ -26,7 +26,7 @@ Este notebook contiene la evaluación de los modelos de recomendación y el **es
 - Ejecución de una búsqueda de hiperparámetros (*Grid Search*) evaluada con un **Score Balanceado** para encontrar la combinación óptima de pesos que reduzca la tasa de clickbait expuesta (*HighClickbaitRate@10*) perdiendo la menor cantidad de precisión posible (*nDCG@10*).
 
 ### Documento de Investigación
-- `TF-IDF-clickbait.pdf`: Paper siguiendo estilo ICML que contiene la documentación formal del proyecto, estado del arte, metodología, análisis de resultados (trade-off) y conclusiones.
+- `ICML2025_Template__Copy_ (2).pdf`: Paper siguiendo estilo ICML que contiene la documentación formal del proyecto, estado del arte, metodología, análisis de resultados (trade-off) y conclusiones.
 
 ## Autores
 - Clemente Campos
